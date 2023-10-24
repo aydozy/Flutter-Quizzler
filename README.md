@@ -1,16 +1,5 @@
 # quizzler
+![screenshot-2023-10-24_21 24 56 732](https://github.com/aydozy/Flutter-Quizzler/assets/104395137/496124fb-d819-47e9-bb7d-95248b9afefc)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[screencast-Genymotion-2023-10-24_21.24.59.617.webm](https://github.com/aydozy/Flutter-Quizzler/assets/104395137/e191915e-eafb-4d6e-b2cb-82f6ebaa1e31)
